@@ -1,0 +1,31 @@
+# Compiled class files
+target/
+
+# Maven build directories
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test reports
+cucumber-reports/
+
+# Log files
+*.log
+
+# Eclipse-specific files and directories
+.settings/
+.classpath
+.project
+
+# IntelliJ IDEA-specific files and directories
+*.iml
+.idea_modules/
+out/
