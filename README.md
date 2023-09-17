@@ -15,9 +15,9 @@ cucumber-test/
 │   └── test/
 │       ├── java/                # Test code and step definitions
 │       │   └── com/
-│       │       └── example/
-│       │           ├── CucumberTestRunner.java   # TestNG runner class
-│       │           └── stepdefs/                  # Cucumber step definitions
+│       │       └── searchAPI/
+│       │           ├── ITunesSearchAPIRunner            # TestNG runner class
+│       │           └── ITunesSearchAPIStepDefinitions   # Cucumber step definitions
 │       └── resources/
 │           └── features/          # Cucumber feature files
 ├── pom.xml                        # Maven configuration file
@@ -32,19 +32,14 @@ This project uses the following dependencies:
 - [TestNG](https://testng.org/): A testing framework for Java.
 - [RestAssured](https://rest-assured.io/): A library for testing RESTful web services.
 
-# Cucumber and TestNG Maven Project
-
-...
 
 ## Getting Started
 
 1. Clone or download this repository to your local machine. You can download the project from the following location:
 
-   [Download Cucumber and TestNG Maven Project](https://github.com/yourusername/your-repo)
+   [Download Cucumber and TestNG Maven Project](https://github.com/Dasi-Rakesh/cucumber-test-api)
 
 2. Configure your development environment and ensure you have Maven installed.
-
-...
 
 
 ## Getting Started
